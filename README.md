@@ -26,7 +26,7 @@ First start the weather API container:
 
 Then run the Go client:
 
-go run weather/main.go Delhi
+- go run weather/main.go Delhi
 
 ---
 

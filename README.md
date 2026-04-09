@@ -33,8 +33,3 @@ go run weather/main.go Delhi
 ### Example Output
 
 City: Delhi Temperature: dummy data
-
---- 
-
-### Project Structure
-go-experiment |- go.mod |- weather |- main.go

@@ -32,4 +32,6 @@ Then run the Go client:
 
 ### Example Output
 
-City: Delhi Temperature: dummy data
+City: Delhi 
+
+Temperature: dummy data
